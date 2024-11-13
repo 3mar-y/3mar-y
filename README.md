@@ -8,7 +8,7 @@ Second year Computer Science student interested in AI, Machine Learning, and web
 
 * 🌍  I'm based in Debercen, Hungary
 * ✉️  You can contact me at [ammarmandour304@gmail.com](mailto:ammarmandour304@gmail.com)
-* 🧠  I'm learning Data Structures + Algorithms
+* 🧠  I'm learning Web devolpment.
 * 🤝  I'm open to collaborating on Projects
 ### Skills
 
