@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ammar Ibrahim
 =====================================================================================================================================
 
-CS Stuednt
+CS Student
 ----------
 
 Second year Computer Science student interested in AI, Machine Learning, and web development. I am currently working on improving my skill set in Data Science and Web Development.
