@@ -1,7 +1,7 @@
 # Hi there! 👋 My name is Ammar Ibrahim
 
 ## About Me
-I'm a Computer Science student currently in my third year, passionate about **Cybersecurity, AI, and Pen testing**. I'm exploring practical projects and learning new technologies to strengthen my skills and contribute to impactful solutions.
+I’m a Computer Science student passionate about cybersecurity and AI. I’m currently learning Blue Team fundamentals, network defense, and security analysis through hands on labs and online courses. I enjoy sharing my learning journey and exploring how AI can improve digital security.
 
 - 🌍 Based in Debrecen, Hungary  
 - ✉️ Contact me: [ammarmandour304@gmail.com](mailto:ammarmandour304@gmail.com)  
